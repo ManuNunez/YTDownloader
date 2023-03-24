@@ -1,4 +1,4 @@
-##THIS IS A YOUTUBE DOWNLOADER
+## THIS IS A YOUTUBE DOWNLOADER
 
 for use this software you need to have the python 
 interpreter and install  the library 
@@ -12,7 +12,11 @@ pytube then on your terminal run the following command
 
  python main.py
 
- from here you can select from the options below
+ from here you can select from the options to download below
+
+ - a single video file
+ - a list of videos from a playlist on youtube
+ - just the audio form a youtube video
 
 
 
