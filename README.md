@@ -18,5 +18,8 @@ pytube then on your terminal run the following command
  - a list of videos from a playlist on youtube
  - just the audio form a youtube video
 
+ form here the program will just ask for the video URL and in the case of select the just one video option
+ will ask for the quality of the video
+
 
 
