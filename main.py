@@ -35,7 +35,8 @@ while boolMenu == True:
     print("select a option to download")
     print("1) Download a single video")
     print("2) Download a list of videos")
-    print("3) Exit")
+    print("3) Download just audio")
+    print("4) Exit")
     option = int(input())
     if option == 1:
         singleVideo()
